@@ -37,3 +37,24 @@ The below table shows 4 countries that I would recommend people to visit
 
 > If you’re going to tell people the truth, be funny or they’ll kill you.
 -*Billy Wilder*
+
+---
+
+# Code Fencing
+
+>[Link to stack overflow](https://stackoverflow.com/questions/tagged/html)
+
+```
+<form action="iframe.php" target="my-iframe" method="post">
+			
+  <label for="text">Some text:</label>
+  <input type="text" name="text" id="text">
+			
+  <input type="submit" value="post">
+			
+</form>
+		
+<iframe name="my-iframe" src="iframe.php"></iframe>
+```
+
+[Link to html patterns](https://css-tricks.com/snippets/html/post-data-to-an-iframe/)
