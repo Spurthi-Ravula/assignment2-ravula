@@ -17,4 +17,14 @@ Team India
 
 About me ![Click to see who am I](AboutMe.md)
 
+---
 
+# Places to visit
+The below table shows 4 countries that I would recommend people to visit
+
+| Name of the Country | Reason to visit | Days to spend |
+|---------------------|-----------------|---------------|
+| India               | Diverse cultures| 30            |
+| France              | Best food & castles | 15        |
+| Indonesia           | Beaches          |  8           |
+| New Zealandn        | Climate & nature | 10           |
