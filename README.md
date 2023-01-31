@@ -11,6 +11,10 @@ Team India
 2. Saina
 3. Ruthwika
 
+*   Team China
+*   Team Japan
+*   Team Denmark
+
 
 
 
