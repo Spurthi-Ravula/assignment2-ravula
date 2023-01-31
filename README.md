@@ -28,3 +28,12 @@ The below table shows 4 countries that I would recommend people to visit
 | France              | Best food & castles | 15        |
 | Indonesia           | Beaches          |  8           |
 | New Zealandn        | Climate & nature | 10           |
+
+---
+
+# Funny quotes
+> She’s strong! And scary…I bet she’s single…I’d put money on it.
+-*Masashi Kishimoto*
+
+> If you’re going to tell people the truth, be funny or they’ll kill you.
+-*Billy Wilder*
